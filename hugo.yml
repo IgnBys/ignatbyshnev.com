@@ -1,4 +1,4 @@
-baseURL: "https://ignatbyshnev.com"
+baseURL: "https://ignatbyshnev.netlify.app"
 title: Ignat Byshniou
 pagination.pagerSize: 5
 theme: hugo-PaperMod
