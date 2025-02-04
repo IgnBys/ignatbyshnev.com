@@ -1,0 +1,75 @@
+baseURL: "https://ignatbyshnev.com"
+title: Ignat Byshniou
+pagination.pagerSize: 5
+theme: hugo-PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Kirill Nikolaev
+  description: "Kirill's personal website"
+  keywords: [Blog, Portfolio, PaperMod, Hugo, Kirill Nikolaev, Kiryl Nikalayeu]
+  DateFormat: "01-01-2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/IgnBys"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/ignacy-byshniou-b17295292/"
+    - name: email
+      url: "emailto:contact@ibyshnev.com"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    favicon: "./me.jpg"
+
+  profileMode:
+    enabled: true
+    title: Ignat Byshniou
+    subtitle: "Hello,."
+    imageUrl: "./me.jpg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: "My photo"
+
+
+    # - name: cv
+
+
+menu:
+  main:
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    # - identifier: cv
+      # name: CV
