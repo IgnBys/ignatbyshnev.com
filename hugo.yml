@@ -13,11 +13,6 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Kirill Nikolaev
-  description: "Kirill's personal website"
-  keywords: [Blog, Portfolio, PaperMod, Hugo, Kirill Nikolaev, Kiryl Nikalayeu]
-  DateFormat: "01-01-2006"
   defaultTheme: dark
   disableThemeToggle: false
 
@@ -51,7 +46,7 @@ params:
   profileMode:
     enabled: true
     title: Ignat Byshniou
-    subtitle: "Hello,."
+    subtitle: "Hello world! I present to your attention the profile of a diligent and smiling programmer. Currently, I specialize in programming in Java, creating REST APIs for various web applications using the Spring framework and actively learning new skills as a Java Developer. My second hobby is studying machine learning. Breaking through the granite of science and theoretical knowledge, I am further and further making my way into the field of Data Science and ML / AI industry. I am glad to see you on my site and invite you to get acquainted with my projects, which I have already managed to do!"
     imageUrl: "./me.jpg"
     imageWidth: 240
     imageHeight: 240
@@ -59,6 +54,10 @@ params:
 
 
     # - name: cv
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 
 
 menu:
