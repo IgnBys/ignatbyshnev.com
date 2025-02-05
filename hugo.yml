@@ -22,7 +22,11 @@ params:
     - name: linkedin
       url: "https://www.linkedin.com/in/ignacy-byshniou-b17295292/"
     - name: email
-      url: "emailto:contact@ibyshnev.com"
+      url: ""
+      params:
+        email: "ibyshnev@gmail.com"
+    - name: telegram
+      url: "https://t.me/byshnev"
 
   ShowReadingTime: true
   ShowShareButtons: false

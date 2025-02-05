@@ -18,5 +18,46 @@
 &lt;p&gt;I present to your attention my pride, into which a lot of effort and time was invested - a virtual fitting room. The purpose of this application is to allow you to try on clothes online.&lt;/p&gt;
 &lt;p&gt;Weavella is a group project that was done to complete my undergraduate studies. The application is written using &lt;strong&gt;Java&lt;/strong&gt; and &lt;strong&gt;Python&lt;/strong&gt; on the backend, &lt;strong&gt;React&lt;/strong&gt; on the frontend, using &lt;strong&gt;Firestore&lt;/strong&gt; as a database and &lt;strong&gt;Kafka&lt;/strong&gt; for microservice communication.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Repair Mission Game</title>
+      <link>http://localhost:1313/projects/repair_mission_game/</link>
+      <pubDate>Fri, 12 Jan 2024 15:24:13 +0000</pubDate>
+      <guid>http://localhost:1313/projects/repair_mission_game/</guid>
+      <description>&lt;h2 id=&#34;storyline&#34;&gt;Storyline&lt;/h2&gt;
+&lt;p&gt;The main goal of the game is to repair the damaged ship by finding and collecting all the missing items. The items have been scattered across the planetary system with a dense asteroid belt, so finding all the items can be a challenge. During the game, the player will explore space in search of the necessary parts and tools. Each found item brings the player closer to achieving the main goal - restoring the ship&amp;rsquo;s efficiency and functionality. The planets vary in texture and size. Some are slightly larger stones, while others are planets with moons and thick clouds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Promo Codes</title>
+      <link>http://localhost:1313/projects/promo_codes/</link>
+      <pubDate>Fri, 16 Jun 2023 15:24:13 +0000</pubDate>
+      <guid>http://localhost:1313/projects/promo_codes/</guid>
+      <description>&lt;p&gt;This project could be called differently: &amp;ldquo;My first REST API&amp;rdquo;. Yes, exactly from this project my passion for the Java language began, I started learn the Springboot framework and work with web programming. This project is a good indicator of using basic OOP concepts, working with http requests and testing the application.&lt;/p&gt;
+&lt;h2 id=&#34;main-task&#34;&gt;Main task&lt;/h2&gt;
+&lt;p&gt;Creating a REST API to manage discount codes for sales or promotions, integrating with an in-memory database for efficient data handling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cat or Not Telegram Bot</title>
+      <link>http://localhost:1313/projects/cat_or_not/</link>
+      <pubDate>Thu, 19 Jan 2023 15:24:13 +0000</pubDate>
+      <guid>http://localhost:1313/projects/cat_or_not/</guid>
+      <description>&lt;h1 id=&#34;catornothttpstmecatornotbot&#34;&gt;&lt;strong&gt;&lt;a href=&#34;https://t.me/CatOrNotbot&#34;&gt;CatOrNot&lt;/a&gt;&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;CatOrNot&lt;/strong&gt; is a &lt;a href=&#34;https://telegram.org/&#34;&gt;Telegram&lt;/a&gt; &lt;a href=&#34;https://core.telegram.org/bots&#34;&gt;Bot&lt;/a&gt; to determine the presence of a cat in the picture using &lt;a href=&#34;https://en.wikipedia.org/wiki/Artificial_intelligence&#34;&gt;Artificial Intelligence&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/CatOrNot/cat.jpg&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;where-can-i-find-the-demo-version-of-the-bot&#34;&gt;&lt;strong&gt;Where can I find the demo version of the bot?&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;We have prepared a &lt;a href=&#34;https://t.me/CatOrNotbot&#34;&gt;demo bot&lt;/a&gt; in Telegram, you can use it.&lt;/p&gt;
+&lt;h1 id=&#34;how-to-use-catornot-bot&#34;&gt;&lt;strong&gt;How to use CatOrNot bot?&lt;/strong&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;step-1&#34;&gt;Step 1.&lt;/h2&gt;
+&lt;p&gt;Start a conversation with the bot.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h5 id=&#34;you-can-use-our-demo-bothttpstmecatornotbot&#34;&gt;You can use our &lt;a href=&#34;https://t.me/CatOrNotbot&#34;&gt;demo bot&lt;/a&gt;&lt;/h5&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-2&#34;&gt;Step 2.&lt;/h2&gt;
+&lt;p&gt;Send the &lt;a href=&#34;https://t.me/CatOrNotbot&#34;&gt;/help&lt;/a&gt; command to the bot and read the instructions&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h5 id=&#34;this-step-is-optional-but-we-recommend-doing-it-to-familiarize-yourself-with-the-capabilities-of-the-bot&#34;&gt;This step is optional, but we recommend doing it to familiarize yourself with the capabilities of the bot&lt;/h5&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-3&#34;&gt;Step 3.&lt;/h2&gt;
+&lt;p&gt;Send a photo to the bot and get the answer &lt;strong&gt;&amp;lsquo;Cat&amp;rsquo;&lt;/strong&gt; if there is a cat in the photo or &lt;strong&gt;&amp;lsquo;Not a cat&amp;rsquo;&lt;/strong&gt; if there is no cat&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
