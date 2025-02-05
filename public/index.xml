@@ -18,5 +18,21 @@
 &lt;p&gt;I present to your attention my pride, into which a lot of effort and time was invested - a virtual fitting room. The purpose of this application is to allow you to try on clothes online.&lt;/p&gt;
 &lt;p&gt;Weavella is a group project that was done to complete my undergraduate studies. The application is written using &lt;strong&gt;Java&lt;/strong&gt; and &lt;strong&gt;Python&lt;/strong&gt; on the backend, &lt;strong&gt;React&lt;/strong&gt; on the frontend, using &lt;strong&gt;Firestore&lt;/strong&gt; as a database and &lt;strong&gt;Kafka&lt;/strong&gt; for microservice communication.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>My view of the future</title>
+      <link>http://localhost:1313/posts/my_future/</link>
+      <pubDate>Fri, 01 Nov 2024 14:26:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my_future/</guid>
+      <description>&lt;p&gt;This week I am participating in the &amp;ldquo;Career View&amp;rdquo; competition held by Adam Mickiewicz University. The competition&amp;rsquo;s main goal is to show the visibility of your future work. In this concept, I tried to show the difference between a beginner student, who spends most of his time studying, without having large resources for equipment and having basic knowledge in his field - and a professional programmer with a full package of conveniences and comfort for work.
+P.S. I intend to become that imaginary person in my head :)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Data Science Certificate</title>
+      <link>http://localhost:1313/posts/certificate/</link>
+      <pubDate>Wed, 02 Oct 2024 14:26:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/certificate/</guid>
+      <description>&lt;p&gt;I hasten to brag to you that I received a certificate of completion of the online course &amp;ldquo;The Data Science Course: Complete Data Science Bootcamp 2024&amp;rdquo; prepared by the company 365 Careers!&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Certificate&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/certificate.jpg&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
