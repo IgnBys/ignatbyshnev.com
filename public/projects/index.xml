@@ -36,6 +36,14 @@
 &lt;p&gt;Creating a REST API to manage discount codes for sales or promotions, integrating with an in-memory database for efficient data handling.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AI intelligent robot</title>
+      <link>http://localhost:1313/projects/ai_robot/</link>
+      <pubDate>Thu, 09 Mar 2023 15:24:13 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ai_robot/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;The essence of the project is to create a robot to simulate the process of working in a warehouse. Customers bring parcels to the warehouse, which the robot must pick up from a certain place and take to an empty shelf designated specifically for a certain type of parcel (sports, food, books, clothes, etc.). Simulation of customers occurs by generating parcels in a specially designated place. When working, the robot must take into account some parameters:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cat or Not Telegram Bot</title>
       <link>http://localhost:1313/projects/cat_or_not/</link>
       <pubDate>Thu, 19 Jan 2023 15:24:13 +0000</pubDate>

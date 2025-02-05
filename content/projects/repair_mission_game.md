@@ -16,7 +16,7 @@ The main goal of the game is to repair the damaged ship by finding and collectin
 - Tone Mapping - normalization of color subjected to strong lighting
 - SkyBox - game background
 
-## How it looked
+## How does it look
 <video width="640" height="360" controls>
   <source src="/repair_mission/repair_mission_game.mp4" type="video/mp4">
   Your browser does not support the video tag.
