@@ -66,9 +66,9 @@ markup:
 
 menu:
   main:
-    - identifier: archive
+    - identifier: posts
       name: What's new
-      url: /archive/
+      url: /posts/
       weight: 1
     - identifier: projects
       name: Projects

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Linux on Ignat Byshniou</title>
-    <link>http://localhost:1313/categories/linux/</link>
-    <description>Recent content in Linux on Ignat Byshniou</description>
+    <title>Certificate on Ignat Byshniou</title>
+    <link>http://localhost:1313/categories/certificate/</link>
+    <description>Recent content in Certificate on Ignat Byshniou</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Oct 2024 14:26:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/certificate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Certificate</title>
       <link>http://localhost:1313/posts/certificate/</link>
